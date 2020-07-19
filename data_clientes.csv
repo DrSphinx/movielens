@@ -1,21 +1,21 @@
 lead,compra_efetuada,estado_lead,interacoes_semana
-Sophia,1,qualified,17
-Laura,1,qualified,20
-Valentina,0,qualified,9
-Giovanna,1,premium,27
-Maria Luiza,0,qualified,10
-Heloísa,1,premium,27
-Sarah,1,qualified,12
-Ana Luiza,0,qualified,7
-Melissa,0,qualified,6
-Clara,1,qualified,24
-Helena,0,qualified,6
-Laura,1,qualified,17
-Laís,1,qualified,12
-Bruna,0,unqualified,2
-Eduarda,1,qualified,13
-Rafaela,1,qualified,14
-Cloe,1,qualified,18
-Estela,1,qualified,13
-Micaela,0,unqualified,1
-Eva,1,qualified,14
+Sophia,0.85,qualified,17
+Laura,1.2,qualified,24
+Valentina,0.75,qualified,15
+Giovanna,1.2,qualified,24
+Maria Luiza,0.1,unqualified,2
+Heloísa,0.3,qualified,6
+Sarah,0.8,qualified,16
+Ana Luiza,0.15,unqualified,3
+Melissa,1.25,premium,25
+Clara,1.0,qualified,20
+Helena,0.2,unqualified,4
+Laura,0.65,qualified,13
+Laís,0.3,qualified,6
+Bruna,0.3,qualified,6
+Eduarda,0.05,unqualified,1
+Rafaela,0.55,qualified,11
+Cloe,0.25,qualified,5
+Estela,0.3,qualified,6
+Micaela,1.5,premium,30
+Eva,1.1,qualified,22
