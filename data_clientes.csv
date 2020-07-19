@@ -1,11 +1,21 @@
 lead, compra_efetuada, estado_lead, interacoes_semana
-Sophia, 0, 0, 0
-Laura, 0, 0, 0
-Valentina, 0, 0, 0
-Giovanna, 0, 0, 0
-Maria Luiza, 0, 0, 0
-Heloísa, 0, 0, 0
-Sarah, 0, 0, 0
-Ana Luiza, 0, 0, 0
-Melissa, 0, 0, 0
-Clara, 0, 0, 0
+Sophia, 0, premium, 7
+Laura, 0, premium, 3
+Valentina, 1, qualified, 12
+Giovanna, 0, premium, 6
+Maria Luiza, 0, unqualied, 13
+Heloísa, 0, qualified, 15
+Sarah, 1, unqualied, 14
+Ana Luiza, 1, qualified, 1
+Melissa, 1, premium, 13
+Clara, 0, premium, 15
+Helena, 0, unqualied, 3
+Laura, 0, qualified, 11
+Laís, 0, qualified, 4
+Bruna, 0, qualified, 5
+Eduarda, 0, qualified, 10
+Rafaela, 1, premium, 7
+Cloe, 1, premium, 10
+Estela, 0, unqualied, 1
+Micaela, 0, unqualied, 8
+Eva, 0, premium, 14
